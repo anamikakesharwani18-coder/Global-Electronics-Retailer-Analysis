@@ -62,4 +62,4 @@ Completed
 
 ## Dashboard Preview
 
-![Global Electronics Retailer Dashboard](Global_Electronics_Dashboard.png)
+![Global Electronics Retailer Dashboard](global_screenshot.jpg)
